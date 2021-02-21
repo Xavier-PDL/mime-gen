@@ -1,6 +1,7 @@
 # mime-gen.py
 
 Generate a MIME-Type dictionary by scraping MDN.
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types
 
 ## Installation
 Clone this repo and cd into the `mime-gen` directory.
